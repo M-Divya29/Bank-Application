@@ -81,7 +81,7 @@ Provides summary of:
 - Account Holder Details  
 - Individual Account Information  
 
-![Account Overview](overview.png)
+![Account Overview](overview.PNG)
 
 ---
 
