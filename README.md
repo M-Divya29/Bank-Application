@@ -40,6 +40,9 @@ my_bank/
 │── controllers/
 │── models/
 │── README.md
+│── dashboard.png
+│── account-created.png
+│── overview.png
 ```
 
 ---
@@ -55,7 +58,7 @@ Displays available banking operations including:
 - Profile Management  
 - Change Password  
 
-![Banking Services](Screenshot 2025-06-29 120111.png)
+![Banking Services](dashboard.png)
 
 ---
 
@@ -67,7 +70,7 @@ Shows successful account creation with detailed account information such as:
 - Branch Details  
 - Current Balance  
 
-![Account Created](Screenshot 2025-06-29 121055.png)
+![Account Created](account-created.png)
 
 ---
 
@@ -78,7 +81,7 @@ Provides summary of:
 - Account Holder Details  
 - Individual Account Information  
 
-![Account Overview](Screenshots 1\crop.PNG)
+![Account Overview](overview.png)
 
 ---
 
