@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="4.0"
+	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd">
+	
+	<display-name>MyBank Internet Banking</display-name>
+	
+	<welcome-file-list>
+		<welcome-file>index.jsp</welcome-file>
+	</welcome-file-list>
+	
+	<!-- Login Servlet -->
+	<servlet>
+		<servlet-name>LoginServlet</servlet-name>
+		<servlet-class>com.ty.controller.LoginServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>LoginServlet</servlet-name>
+		<url-pattern>/login</url-pattern>
+	</servlet-mapping>
+	
+	<!-- Register Servlet -->
+	<servlet>
+		<servlet-name>RegisterServlet</servlet-name>
+		<servlet-class>com.ty.controller.RegisterServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>RegisterServlet</servlet-name>
+		<url-pattern>/save</url-pattern>
+	</servlet-mapping>
+	
+	<!-- Create Account Servlet -->
+	<servlet>
+		<servlet-name>CreateAccount</servlet-name>
+		<servlet-class>com.ty.controller.CreateAccount</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>CreateAccount</servlet-name>
+		<url-pattern>/createAccount</url-pattern>
+	</servlet-mapping>
+	
+</web-app>
