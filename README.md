@@ -55,7 +55,7 @@ Displays available banking operations including:
 - Profile Management  
 - Change Password  
 
-![Banking Services](C:\Users\syam4\OneDrive\Pictures\Screenshots 1\Screenshot 2025-06-29 120111.png)
+![Banking Services](Screenshot 2025-06-29 120111.png)
 
 ---
 
@@ -67,7 +67,7 @@ Shows successful account creation with detailed account information such as:
 - Branch Details  
 - Current Balance  
 
-![Account Created]("C:\Users\syam4\OneDrive\Pictures\Screenshots 1\Screenshot 2025-06-29 121055.png")
+![Account Created](Screenshot 2025-06-29 121055.png)
 
 ---
 
@@ -78,7 +78,7 @@ Provides summary of:
 - Account Holder Details  
 - Individual Account Information  
 
-![Account Overview](C:\Users\syam4\OneDrive\Pictures\Screenshots 1\crop.PNG)
+![Account Overview](Screenshots 1\crop.PNG)
 
 ---
 
